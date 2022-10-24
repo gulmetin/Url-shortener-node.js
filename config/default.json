@@ -1,5 +1,5 @@
 {
-  "mongodbUrl": "mongodb+srv://mgulmetin:123456789Gm@gul8.jdeqcwy.mongodb.net",
+  "mongodbUrl": " ",
   "port": 8080,
   "baseUrl": "http://localhost:8080"
 }
